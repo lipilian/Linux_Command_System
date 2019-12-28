@@ -1,5 +1,6 @@
 # Linux_Command_System
-The practice of Linux_Command_System
+#The practice of Linux_Command_System
+
 1.
 Section 2:
 Use terminal;
