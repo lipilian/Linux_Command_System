@@ -30,4 +30,4 @@
 4. For example:
 59 23 * JAN,DEC SUN    crontab.guru good website to look at.
 5. Backup auto weekly
-59 23 * * FRI backup
+59 23 * * FRI bash ~/bin/backup
