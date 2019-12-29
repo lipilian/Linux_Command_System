@@ -25,4 +25,5 @@
 
 # Section 4:
 1. bash_Script;
+2. Add it to Path and chmod it executable.
 
