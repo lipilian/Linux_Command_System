@@ -26,4 +26,4 @@
 # Section 4:
 1. bash_Script;
 2. Add it to Path and chmod it executable.
-3. Crontab to automatically run the program.
+3. Crontab to automatically run the program.: use crontab -e, nano edit it, minutes hour, dom (every day) mon, dow(monday, sunday) command : * * * * command run every minutes "*/15" every fifteen minutes.
