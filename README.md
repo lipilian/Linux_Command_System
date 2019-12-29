@@ -32,3 +32,10 @@
 5. Backup auto weekly
 59 23 * * FRI bash ~/bin/backup
 6. hungry data project
+
+# Section 5:
+1. install sorce code and modify ls command form coreutil
+2. configure the sorce code with bash configure.
+3. make file
+4. sudo make install
+5. 
