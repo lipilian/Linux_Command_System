@@ -38,4 +38,4 @@
 2. configure the sorce code with bash configure.
 3. make file
 4. sudo make install
-5. 
+5. apt cache
