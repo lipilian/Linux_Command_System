@@ -38,4 +38,18 @@
 2. configure the sorce code with bash configure.
 3. make file
 4. sudo make install
-5. apt cache
+
+# Section 6:
+1. apt cache
+2. GNU project
+3. xeyes install
+4. Apt download sourcecode (sudo apt-get source <package name>)
+5. sudo apt-get purge <package name> perfectly remove.
+6. sudo apt-get autoremove ( remove no longer needed package)
+7. sudo apt-get clean clean the archieve (everything)
+8. sudo apt-get autoclean (only delete can not downloaded file).
+  
+  
+
+
+
